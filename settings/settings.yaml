@@ -1,0 +1,5 @@
+fps  : 24
+car_image_filename : "car_top_view.png" 
+view_range : 150
+float_example : 145.3
+
